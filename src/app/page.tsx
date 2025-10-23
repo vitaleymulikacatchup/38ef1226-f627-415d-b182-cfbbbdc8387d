@@ -37,7 +37,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="YO YO Yo YO"
+          title="YO YO Yo asddsaYO"
           description="Discover premium vehicles with guaranteed quality, competitive pricing, and exceptional service. Your dream car awaits at AutoMax."
           tag="Premium Dealership"
           tagIcon={Car}
