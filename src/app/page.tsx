@@ -265,13 +265,13 @@ export default function Home() {
           tag="Partners"
           tagIcon={Handshake}
           logos={[
-            "placeholders/placeholder1.webp",
-            "placeholders/placeholder1.webp",
-            "placeholders/placeholder1.webp",
-            "placeholders/placeholder1.webp",
-            "placeholders/placeholder1.webp",
-            "placeholders/placeholder1.webp",
-            "placeholders/placeholder1.webp"
+            "/placeholders/placeholder1.webp",
+            "/placeholders/placeholder1.webp",
+            "/placeholders/placeholder1.webp",
+            "/placeholders/placeholder1.webp",
+            "/placeholders/placeholder1.webp",
+            "/placeholders/placeholder1.webp",
+            "/placeholders/placeholder1.webp"
           ]}
         />
       </div>
